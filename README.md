@@ -6,7 +6,7 @@
  Tensorflow and PyTorch are used to train our attact model ([ML-TEST](./ML-TEST) is a simple Demo of our ML abality. Core code is under preparation)
 
 - Logo
->![alt text](logo.png)
+>![LOGO](logo.png)
 
 - ScreenShot
->![alt text](screenshot/index.png)
+>![INDEX](screenshot/index.png)
